@@ -11,3 +11,4 @@ wheels/
 
 # IDE files
 .vscode/
+.idea/
